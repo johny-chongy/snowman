@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot test 1`] = `
+<div>
+  <div
+    class="Snowman"
+  >
+    <img
+      alt="6"
+      src="6.png"
+    />
+    <p>
+       Wrong guesses: 
+      6
+       
+    </p>
+    <p
+      class="Snowman-word"
+    >
+      _
+    </p>
+    <p>
+      You lose
+    </p>
+  </div>
+</div>
+`;
